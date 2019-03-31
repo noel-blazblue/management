@@ -79,14 +79,8 @@ export default {
   },
   about: {
     author: '作者',
-    authorName: '林锦泽',
+    authorName: '石磊',
     mail: '邮箱',
     code: '源码地址',
-    study: '教学步骤',
-    preview: '在线预览'
-  },
-  else: {
-    learn: '1. 实现：请参考',
-    example: '2. 示例：以下示例源代码见'
   }
 }

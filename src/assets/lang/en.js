@@ -80,12 +80,5 @@ export default {
     author: 'Author',
     authorName: 'Jinze Lin',
     mail: 'Email',
-    code: 'Code source',
-    study: 'Study',
-    preview: 'Preview Online'
-  },
-  else: {
-    learn: '1. Refer to ',
-    example: '2. Example source '
   }
 }
