@@ -80,7 +80,6 @@ export default {
   about: {
     author: '作者',
     authorName: '石磊',
-    mail: '邮箱',
-    code: '源码地址',
+    mail: '邮箱'
   }
 }

@@ -79,6 +79,6 @@ export default {
   about: {
     author: 'Author',
     authorName: 'Jinze Lin',
-    mail: 'Email',
+    mail: 'Email'
   }
 }

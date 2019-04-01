@@ -1,7 +1,6 @@
 import axios from 'axios'
 import {MessageBox, Message} from 'element-ui'
 
-
 /* 为每个请求设置默认baseURL，并添加token */
 axios.defaults.baseURL = ''
 axios.interceptors.request.use(function (config) {

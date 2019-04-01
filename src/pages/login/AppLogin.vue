@@ -153,7 +153,6 @@
           </svg>
         </div>
       </div>
-
       <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-position="left" label-width="0px"
                class="demo-ruleForm login-container" status-icon>
         <h3 class="title">{{$t("login.login")}}</h3>
