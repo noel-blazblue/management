@@ -127,18 +127,6 @@ const staticRouter = [
       }
     ]
   }, {
-    path: '/',
-    component: TheLayout,
-    menu: true,
-    children: [
-      {
-        path: '/about',
-        name: 'menu.about',
-        icon: 'el-icon-star-off',
-        component: FuncAbout
-      }
-    ]
-  }, {
     path: '/error/401',
     name: 'error.401',
     meta: {errorPage: true},
